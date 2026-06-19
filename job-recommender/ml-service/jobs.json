@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Software Engineer",
+    "required_skills": "Python, Java, C++, Git, Data Structures, Algorithms, OOP",
+    "description": "We are seeking a versatile Software Engineer to design, build, and support critical software applications. You will work across the full stack, write clean code, and collaborate in an agile environment."
+  },
+  {
+    "title": "Backend Engineer",
+    "required_skills": "Python, Flask, Django, PostgreSQL, REST APIs, Docker, Redis",
+    "description": "Join our platform team to build scalable server-side systems. You will design robust APIs, optimize database queries, manage microservices pipelines, and maintain highly available backend architectures."
+  },
+  {
+    "title": "Frontend Developer",
+    "required_skills": "HTML5, CSS3, JavaScript, React, Tailwind CSS, TypeScript, Webpack, Git",
+    "description": "We are looking for a creative Frontend Developer to craft beautiful, responsive, and intuitive web experiences. You will translate designs into premium component code using modern React stacks."
+  },
+  {
+    "title": "Full Stack Developer",
+    "required_skills": "React, Node.js, Express, MongoDB, JavaScript, REST APIs, AWS, HTML, CSS",
+    "description": "Looking for a Full Stack Developer capable of owning features from end to end. You will build user-friendly interfaces and implement the backing server-side logic and database schemas."
+  },
+  {
+    "title": "Data Scientist",
+    "required_skills": "Python, SQL, R, Pandas, NumPy, Scikit-Learn, Statistics, Data Visualization, Tableau",
+    "description": "Analyze large datasets to extract actionable insights and build predictive models. You will help drive business decisions by turning raw metrics into interactive dashboards and reports."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "required_skills": "Python, PyTorch, TensorFlow, Scikit-Learn, MLOps, SQL, Linear Algebra, Keras",
+    "description": "Develop and deploy deep learning models at scale. You will build end-to-end data training pipelines, optimize neural networks for inference, and integrate AI features into production."
+  },
+  {
+    "title": "DevOps Engineer",
+    "required_skills": "AWS, Docker, Kubernetes, Terraform, CI/CD, Jenkins, Bash, Linux, Git",
+    "description": "Optimize our software delivery pipeline and manage cloud infrastructure. You will write infrastructure-as-code, configure CI/CD automations, and manage containers in high-traffic environments."
+  },
+  {
+    "title": "Cloud Engineer",
+    "required_skills": "AWS, Azure, GCP, Cloud Security, Serverless, IAM, Linux, Terraform, Networking",
+    "description": "Design and implement secure, scalable cloud architectures. You will migrate legacy systems, manage multi-region availability, and work to keep cloud infrastructure cost-efficient."
+  },
+  {
+    "title": "Android Developer",
+    "required_skills": "Kotlin, Java, Android SDK, Jetpack Compose, Retrofit, MVVM, SQLite, Git",
+    "description": "Build high-performance mobile apps for the Android platform. You will collaborate on API designs, write clean Jetpack Compose layouts, and ensure fluid performance across device form factors."
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "required_skills": "Penetration Testing, Network Security, SIEM, Firewalls, Cryptography, Linux, Wireshark",
+    "description": "Protect our networks and digital assets. You will monitor security logs, perform regular vulnerability assessments, respond to threat incidents, and enforce corporate compliance."
+  },
+  {
+    "title": "iOS Developer",
+    "required_skills": "Swift, SwiftUI, UIKit, CoreData, Xcode, CocoaPods, REST APIs, Git",
+    "description": "Create responsive and premium iOS applications using Swift and SwiftUI. You will implement smooth animations, offline database syncing, and publish applications directly to the App Store."
+  },
+  {
+    "title": "Data Engineer",
+    "required_skills": "Python, Apache Spark, Hadoop, SQL, ETL, Snowflake, Airflow, Scala",
+    "description": "Design and build data warehouse pipelines. You will orchestrate ETL flows, ingest data streams from web hooks and databases, and optimize big data systems for analytical queries."
+  },
+  {
+    "title": "QA Automation Engineer",
+    "required_skills": "Selenium, Cypress, Python, JavaScript, Unit Testing, QA, CI/CD, PyTest",
+    "description": "Ensure the highest software quality by creating automation test suites. You will build end-to-end test scenarios, write unit tests, and integrate automated quality checks into CI/CD pipelines."
+  },
+  {
+    "title": "UI/UX Designer",
+    "required_skills": "Figma, Adobe XD, Wireframing, Prototyping, CSS, User Research, UI Design",
+    "description": "Design interfaces that users love. You will conduct user research, create wireframes and high-fidelity mockups, and work closely with engineers to ensure pixel-perfect CSS styling."
+  },
+  {
+    "title": "Systems Administrator",
+    "required_skills": "Linux, Active Directory, Bash, Networking, DNS, Security, Scripting, VMware",
+    "description": "Manage our internal network infrastructure, user systems, and virtual machine setups. You will perform updates, monitor system health, and secure system endpoints."
+  },
+  {
+    "title": "Product Manager",
+    "required_skills": "Agile, Scrum, Product Strategy, Roadmap, Jira, Analytics, UX Principles",
+    "description": "Define the vision and product roadmap. You will coordinate with engineering, design, and marketing teams to prioritize features and deliver value to our customer base."
+  },
+  {
+    "title": "Embedded Systems Engineer",
+    "required_skills": "C, C++, RTOS, Microcontrollers, Firmware, Embedded Linux, I2C, SPI",
+    "description": "Write low-level code and firmware for IoT hardware devices. You will interface with microcontrollers, write real-time OS drivers, and debug hardware setups with logic analyzers."
+  },
+  {
+    "title": "Blockchain Developer",
+    "required_skills": "Solidity, Ethereum, Web3.js, Smart Contracts, Go, Cryptography, Rust",
+    "description": "Design and develop decentralized applications (DApps) and secure smart contracts. You will build on Ethereum/EVM blockchains and optimize contracts for gas consumption."
+  },
+  {
+    "title": "Database Administrator",
+    "required_skills": "SQL, PostgreSQL, MySQL, Oracle, Backup & Recovery, Performance Tuning, Clustering",
+    "description": "Oversee the design, installation, and optimization of relational database management systems. You will optimize query performance, manage backup schedules, and guarantee uptime."
+  },
+  {
+    "title": "Site Reliability Engineer (SRE)",
+    "required_skills": "Python, Linux, Prometheus, Grafana, AWS, Kubernetes, Shell Scripting, Incident Response",
+    "description": "Focus on system reliability, uptime, and performance metrics. You will build telemetry systems, coordinate incident post-mortems, and script solutions to automate operational tasks."
+  },
+  {
+    "title": "AI Research Scientist",
+    "required_skills": "Python, Deep Learning, NLP, Computer Vision, PyTorch, LaTeX, Research Papers",
+    "description": "Conduct cutting-edge research in deep learning, natural language processing, or generative modeling. You will author research plans, build prototypes, and publish findings."
+  },
+  {
+    "title": "Game Developer",
+    "required_skills": "C#, Unity, C++, Unreal Engine, 3D Mathematics, Shaders, Physics, Git",
+    "description": "Develop gameplay mechanics and core features in C# or C++ for PC, console, or mobile. You will optimize rendering pipelines, construct game states, and collaborate with 3D artists."
+  },
+  {
+    "title": "Solutions Architect",
+    "required_skills": "Cloud Architecture, AWS, System Design, Microservices, Enterprise Software, Security",
+    "description": "Translate business needs into reliable technical architectures. You will lead design reviews, propose multi-tenant systems, and advise client engineering squads on best practices."
+  },
+  {
+    "title": "Salesforce Developer",
+    "required_skills": "Apex, Visualforce, Lightning Components, CRM, Java, JavaScript, SOQL",
+    "description": "Customize and extend Salesforce instances. You will build APEX classes, Lightning web components, and integrate third-party APIs to streamline corporate sales funnels."
+  },
+  {
+    "title": "IT Support Specialist",
+    "required_skills": "Windows, macOS, Troubleshooting, Helpdesk, Networking, Active Directory, Customer Service",
+    "description": "Provide user-facing tech support for computer hardware and operating systems. You will troubleshoot network connectivity, manage access lists, and answer client queries."
+  },
+  {
+    "title": "Penetration Tester",
+    "required_skills": "Kali Linux, Metasploit, Python, OWASP Top 10, CEH, Vulnerability Analysis, Cryptography",
+    "description": "Conduct authorized security evaluations of networks, web applications, and APIs. You will write exploit scripts, perform social engineering, and report on remediation paths."
+  },
+  {
+    "title": "Data Analyst",
+    "required_skills": "SQL, Excel, Python, PowerBI, Tableau, Statistics, Reporting, Data Cleansing",
+    "description": "Transform data into actionable visualizations. You will write complex database queries, build automated reporting dashboards, and clean raw datasets for business teams."
+  },
+  {
+    "title": "NLP Specialist",
+    "required_skills": "Python, NLTK, SpaCy, Transformers, BERT, Hugging Face, Machine Learning, Regex",
+    "description": "Design algorithms to process and analyze text data. You will build entity extractors, semantic search parses, translation systems, and sentiment analyzers."
+  },
+  {
+    "title": "Computer Vision Engineer",
+    "required_skills": "Python, OpenCV, PyTorch, CNNs, Image Processing, C++, YOLO, TensorFlow",
+    "description": "Develop visual analysis pipelines for object tracking, classification, and segmentation. You will build robust systems to extract information from images and video feeds."
+  },
+  {
+    "title": "Technical Writer",
+    "required_skills": "Markdown, Git, HTML, Documentation, Technical Copywriting, API Documentation",
+    "description": "Write clear, structured developer documentation, API references, and user guides. You will work with engineers to explain complex system components in plain language."
+  },
+  {
+    "title": "Network Engineer",
+    "required_skills": "Cisco, Routing & Switching, Firewalls, VPN, DNS, WAN, CCNA, Network Architecture",
+    "description": "Design, implement, and maintain enterprise routing and switching infrastructure. You will manage VPN tunnels, firewalls, load balancers, and diagnose packet losses."
+  },
+  {
+    "title": "ScyllaDB / NoSQL Specialist",
+    "required_skills": "ScyllaDB, Cassandra, NoSQL, Database Modeling, Linux, Java, Go, Distributed Systems",
+    "description": "Model and optimize ultra-low latency distributed NoSQL datastores. You will tune replication factors, design partition keys, and manage cluster expansions."
+  }
+]
